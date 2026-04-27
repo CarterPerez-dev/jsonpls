@@ -23,7 +23,7 @@ const (
 	exitFail  = 1
 )
 
-const version = "0.1.0"
+var version = "dev"
 
 const usage = `jsonpls — convert CSV/XLSX to AI-friendly JSON
 
