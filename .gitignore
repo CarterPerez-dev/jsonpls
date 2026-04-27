@@ -1,0 +1,12 @@
+# ©AngelaMos | 2026
+# .gitignore
+
+/jsonpls
+/docs/
+/testdata/private/
+/*.json
+/*.jsonl
+.DS_Store
+.idea/
+.vscode/
+*.swp
